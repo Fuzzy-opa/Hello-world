@@ -1,3 +1,3 @@
 # Hello-world
 tutorial repo
-I am  sernior programmer--i.r.a senior who is not programming
+I am  sernior programmer--i.e. a senior who is not programming
